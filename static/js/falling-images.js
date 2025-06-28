@@ -8,6 +8,10 @@ const imageList = [
     "static/a6.jpg",
     "static/a7.jpg",
     "static/a8.jpg",
+    "static/a9.jpg",
+    "static/a10.jpg",
+    "static/a11.jpg",
+    "static/a12.jpg",
     // Thêm đường dẫn ảnh khác nếu có
 ];
 
